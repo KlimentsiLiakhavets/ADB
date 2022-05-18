@@ -11,3 +11,7 @@
  5. Вывести в консоль логи приложения todolist
  6. Скопировать логи приложения todolist на компьютер.
  7. Удалить приложение todolist с телефона через ADB
+
+```
+
+[Сценарий сделан на Windows 10](https://github.com/KlimentsiLiakhavets/ADB/blob/main/ADB%20HW.txt)
