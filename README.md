@@ -14,4 +14,4 @@
 
 ```
 
-[Сценарий сделан на Windows 10](https://github.com/KlimentsiLiakhavets/ADB/blob/main/ADB%20HW.txt)
+[Сценарий сделан на Windows 10](https://github.com/KlimentsiLiakhavets/ADB)
